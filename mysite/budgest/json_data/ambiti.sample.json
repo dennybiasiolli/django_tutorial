@@ -1,0 +1,9 @@
+[{
+    "num": 1,
+    "descrizione": "Portafoglio",
+    "is_active": true
+}, {
+    "num": 2,
+    "descrizione": "Banca",
+    "is_active": true
+}]

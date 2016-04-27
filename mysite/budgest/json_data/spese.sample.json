@@ -1,0 +1,49 @@
+[{
+    "Data": "2016-04-05",
+    "Importo": 38.56,
+    "Descrizione": "Importo iniziale portafoglio",
+    "Quantita": 1,
+    "Ambito_ID": 1,
+    "Ambito": "Portafoglio",
+    "Tags": ""
+}, {
+    "Data": "2016-04-05",
+    "Importo": 500.00,
+    "Descrizione": "Importo iniziale banca",
+    "Quantita": 1,
+    "Ambito_ID": 2,
+    "Ambito": "Banca",
+    "Tags": ""
+}, {
+    "Data": "2016-04-06",
+    "Importo": -250.00,
+    "Descrizione": "Prelievo bancomat",
+    "Quantita": 1,
+    "Ambito_ID": 2,
+    "Ambito": "Banca",
+    "Tags": "bancomat"
+}, {
+    "Data": "2016-04-06",
+    "Importo": 250.00,
+    "Descrizione": "Prelievo bancomat",
+    "Quantita": 1,
+    "Ambito_ID": 1,
+    "Ambito": "Portafoglio",
+    "Tags": "bancomat"
+}, {
+    "Data": "2016-04-07",
+    "Importo": -40.00,
+    "Descrizione": "Spesa",
+    "Quantita": 1,
+    "Ambito_ID": 1,
+    "Ambito": "Portafoglio",
+    "Tags": "spesa"
+}, {
+    "Data": "2016-04-08",
+    "Importo": -75.98,
+    "Descrizione": "Bolletta ENEL Gas",
+    "Quantita": 1,
+    "Ambito_ID": 2,
+    "Ambito": "Banca",
+    "Tags": "bollette, enel"
+}]

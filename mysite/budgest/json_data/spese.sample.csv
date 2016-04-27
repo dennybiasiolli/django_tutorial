@@ -1,0 +1,6 @@
+05/04/2016,"38,56",Importo iniziale portafoglio,1,1,Portafoglio,
+05/04/2016,"500,00",Importo iniziale banca,1,2,Banca,
+06/04/2016,"-250,00",Prelievo bancomat,1,2,Banca,bancomat
+06/04/2016,"250,00",Prelievo bancomat,1,1,Portafoglio,bancomat
+07/04/2016,"-40,00",Spesa,1,1,Portafoglio,spesa
+08/04/2016,"-75,98",Bolletta ENEL Gas,1,2,Banca,"bollette, enel"
